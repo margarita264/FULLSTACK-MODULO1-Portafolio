@@ -195,6 +195,11 @@ form {
   background-color: var(--primary-color-dark);
   color: var(--accent-color-black);
 }
+.grid-container {
+  display: grid;
+  row-gap: 50px;
+}
+/** CONTACTOS **/
 .footer {
   display: flex;
   flex-direction: column;
