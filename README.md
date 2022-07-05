@@ -1,4 +1,4 @@
-# VISITA MI PORTAFOLIO https://margarita264.github.io/FULLSTACK-MODULO1-Portafolio/
+# VISTA PORTFOLIO https://margarita264.github.io/FULLSTACK-MODULO1-Portafolio/
 
 # Trayecto de Formación: FullStack Web Developer :rocket:
 
